@@ -33,7 +33,6 @@ This project is a RESTful API for managing employee data, built with **Spring Bo
 - 🧪 Tested with JUnit and Postman
 - 🚀 Ready for future enhancements (e.g., JWT security, Swagger UI)
 
-
 ---
 
 ## 🛳️ Dockerized MySQL Database
